@@ -5,3 +5,5 @@ Git track changes of files.
 Test push to Github.
 
 Creating a new branch is quick and simple.
+
+add merge.
