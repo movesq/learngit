@@ -6,4 +6,5 @@ Test push to Github.
 
 Creating a new branch is quick and simple.
 
-add merge. bug fix 102.
+add merge.append bug fix 102
+
