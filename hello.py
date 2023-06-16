@@ -1,2 +1,2 @@
-## author
+## author: Kiki
 print("Test rebase")
